@@ -1,0 +1,1 @@
+<?php  final class WebDriverEnvironment {  public static function CurlExec($ch) {  return fn6_exec($ch);  }  } 

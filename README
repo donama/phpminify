@@ -1,0 +1,23 @@
+# phpmin #
+
+
+---
+
+I always wonder if reducing the size of PHP application files can impact performance, so i set out to write a PHP
+minifying utility to reduce the size of each php file by a quantum of magnitude:
+
+
+
+## Authors ##
+
+* [Christian Amaonwu](https://github.com/donama)
+
+
+## Useless Information ##
+
+I built this utility during Christmas 2011. It was a nice way to spend xmas holiday
+
+
+## License ##
+
+phpmin is published under the [Apache License v2](http://www.apache.org/licenses/LICENSE-2.0)

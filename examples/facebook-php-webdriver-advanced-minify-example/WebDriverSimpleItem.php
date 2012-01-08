@@ -1,0 +1,1 @@
+<?php  final class WebDriverSimpleItem extends WebDriverBase {  private $_fn0 = array();  protected function fn0() {  return $this->_fn0;  }  public function setMethods($fn0) {  $this->_fn0 = $fn0;  return $this;  }  } 
