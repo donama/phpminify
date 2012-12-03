@@ -19,7 +19,7 @@ PHP_ALLOWED_EXTENSIONS=['php','inc']
 # list of php variables to be left untouched
 PHP_EXCLUDED_VARIABLES=['_SERVER','_POST','_GET','_COOKIE','_FILES','_ENV','GLOBALS','this-','this']
 
-# list of php functions to be excluded 
+# list of php functions to be excluded,we could do better than this 
 PHP_EXCLUDED_FUNCTIONS=['__construct','__destruct','__call','__toString','count','extract','curl_init','curl_setopt']
 
 
